@@ -29,4 +29,4 @@
 
 #### Defined in
 
-[src/helpers/eventInstances/once.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/cf57ca9/src/helpers/eventInstances/once.ts#L10)
+[src/helpers/eventInstances/once.ts:10](https://github.com/PalisadoesFoundation/talawa-api/blob/e69119f/src/helpers/eventInstances/once.ts#L10)
